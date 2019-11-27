@@ -1,5 +1,5 @@
 # Your-life-site
-40. Individual project called "Just od it"
+41. Design is about communication
 
 # repo -> https://github.com/MichalAW/Your-life-site.git
 
